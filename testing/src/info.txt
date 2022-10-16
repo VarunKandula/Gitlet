@@ -1,0 +1,7 @@
+#Commands
+#'>' runs the command
+#'<<<' end of command
+#    - output goes in between the command and <<<
+#
+#'+ Name F' - Copies contents from file src/F into a file called NAME
+#'= Name F' - Checks if contents of file src/F are the same as file called NAME
