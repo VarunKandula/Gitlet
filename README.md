@@ -78,4 +78,4 @@ The project is implemented in Java and uses various data structures and algorith
 
 ## Contact
 - Email: varun.kandula@berkeley.edu
-- LinkedIn: linkedin.com/in/varunkandula/
+- LinkedIn: [in/VarunKandula](https://www.linkedin.com/in/varunkandula/)
