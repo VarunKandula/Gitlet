@@ -77,5 +77,5 @@ The project is implemented in Java and uses various data structures and algorith
 - Java Development Kit (JDK)
 
 ## Contact
-Email: varun.kandula@berkeley.edu
-LinkedIn: linkedin.com/in/varunkandula/
+- Email: varun.kandula@berkeley.edu
+- LinkedIn: linkedin.com/in/varunkandula/
