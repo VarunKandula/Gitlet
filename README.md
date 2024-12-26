@@ -76,7 +76,6 @@ The project is implemented in Java and uses various data structures and algorith
 - Java Runtime Environment (JRE)
 - Java Development Kit (JDK)
 
-## Author
-
-Varun Kandula
-Contact: varun.kandula@berkeley.edu
+## Contact
+Email: varun.kandula@berkeley.edu
+LinkedIn: linkedin.com/in/varunkandula/
